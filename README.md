@@ -1,5 +1,5 @@
-# Open Street Map
-Offline Map for android using OSMBonusPack
+# Initial Open Street Map Project for Android
+Initial android project using Offline Map using OSMBonusPack
 
 
 # How to use it
